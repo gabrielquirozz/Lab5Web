@@ -1,5 +1,5 @@
 // JavaScript source code
-
+//Gabriel Quiroz prueba branch
 const input = document.createElement('input')
 
 const button = document.createElement('button')
@@ -136,7 +136,7 @@ input.addEventListener("keyup", function (event) {
             input.value = ('')
         }
         else {
-            alert("Hay más de 140 caracteres")
+            alert("Hay mÃ¡s de 140 caracteres")
 
         }
 
@@ -160,7 +160,7 @@ button.addEventListener('click', () => {
         input.value = ('')
     }
     else {
-        alert("Hay más de 140 caracteres")
+        alert("Hay mÃ¡s de 140 caracteres")
 
     }
 
